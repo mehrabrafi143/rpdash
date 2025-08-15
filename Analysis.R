@@ -12,3 +12,10 @@ mul_op = function(x,y){
 }
 
 mul_op(a,b)
+
+
+div_op = function(x,y){
+  return(x/y)
+}
+
+div_op(a,b)
