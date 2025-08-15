@@ -19,3 +19,4 @@ div_op = function(x,y){
 }
 
 div_op(a,b)
+div_op(90,100)
