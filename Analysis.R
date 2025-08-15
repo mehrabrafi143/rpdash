@@ -6,3 +6,6 @@ add_op = function(x,y){
 }
 
 add_op(a,b)
+
+e = 10
+f = 20
