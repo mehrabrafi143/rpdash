@@ -6,3 +6,9 @@ add_op = function(x,y){
 }
 
 add_op(a,b)
+
+mul_op = function(x,y){
+  return(x*y)
+}
+
+mul_op(a,b)
